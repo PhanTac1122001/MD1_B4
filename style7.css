@@ -1,0 +1,114 @@
+body{
+    font-family: "Tilt Neon", sans-serif;
+}
+.container{
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+
+
+.box{
+    /* display: inline; */
+    margin: auto;
+    background-color: rgb(50, 132, 255);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    
+    
+}
+
+.bluecolor{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.bluecolor p{
+    margin: 0px 4px;
+    color: blue;
+
+}
+div{
+    text-align: center;
+    margin-top: 30px;
+}
+
+button{
+    font-size: 14px;
+    padding: 15px;
+    margin-left: 10px;
+    width: 150px;
+    border-radius: 6px;
+    border: 3px;
+    color: white;
+    background-color: rgb(27, 26, 26);
+}
+.p2{
+    
+    color: white;
+}
+h4{
+    color: aliceblue;
+    
+}
+.btn2{
+width: 400px;
+margin: 20px;
+background-color: rgb(255, 72, 0);
+}
+.backgrcolor{
+    background-image: url(https://picsum.photos/200/300);
+    
+    
+    
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    padding: 25px;
+    
+}
+
+.form_box{
+    border: 0px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    width: 500px;
+    margin-left: 700px;
+}
+.form_dangnhap{
+     padding: 5px;
+}
+input{
+    width: 90%;
+    height: 30px;
+}
+textarea{
+    width: 90%;
+    height: 50px; 
+}
+label{
+    margin-left: -350px;
+}
+
+.form_box2{
+    padding: 15px;
+    border: 0px solid black;
+    background-color: rgb(206, 207, 201);
+    width: 700px;
+    margin: auto;
+}
+.form_dangky{
+    background-color: rgb(255, 255, 193);
+    padding: 10px;
+}
+.form_dangky input{
+    width: 700px;
+    background-color: rgb(206, 207, 201);
+    border: 0px;
+}
